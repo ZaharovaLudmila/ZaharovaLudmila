@@ -5,7 +5,7 @@ _Я уже более 7 лет работаю 1С программистом. Р
 _С Java  я познакомилась еще в университете, у меня хорошо получалось программировать во время обучения , по этому в конце 2021 года я решила, что хочу углубиться в этот язык намного больше._
 
 _В 2022 году пошла на курсы профессиональной переподготовки в Яндекс Практикуме.  
-Владею Java core, Spring Boot, JPA, Hibernate ORM, JDBC, PostgreSQL, H2, Docker, Docker compose, Mockito, MockMvc, JUnit, Postman/Insomnia, REST API, Maven, Slf4J, Lombok._
+Владею Java core, Spring Boot, JPA, Hibernate ORM, JDBC, PostgreSQL, H2, Docker, Docker compose, Mockito, MockMvc, JUnit, Postman, REST API, Maven, Slf4J, Lombok._
 
 _За время обучения реализовала 7 проектов и хотела бы выделить несколько из них:_
 
